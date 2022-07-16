@@ -191,7 +191,7 @@ In the following two examples, the octave A's are interchanged with the open A a
 
 #### Ex. 39
 
-{% include examples/the-drone-scale/ex49.svg %}
+{% include examples/the-drone-scale/ex39.svg %}
 
 #### Ex. 40
 
@@ -223,4 +223,9 @@ This order of (1)  chordal outline, (2) the arpeggio and (3) the scale is what t
 
 #### Ex. 44
 
-{% include examples/the-drone-scale/ex44.svg %}
+{% include examples/the-drone-scale/ex44a.svg %}
+
+{% include examples/the-drone-scale/ex44b.svg %}
+
+{% include examples/the-drone-scale/ex44c.svg %}
+
