@@ -1,34 +1,35 @@
 ---
 layout: default
-title: "Ed."
+title: ""
 ---
-<div class="introduction">
-  <h1>hi.</h1>
+<h1>Table of Contents</h1>
 
-<p>
-  Ed is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme designed for textual
-  editors based on <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and
-  focused on legibility, durability, ease and flexibility. Our underlying technology is easy to
-  learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant
-  to last. To start using Ed, please see <a href="{{ site.baseurl }}/documentation/">our
-  documentation</a> for installation instructions and more. To learn more about the ideas behind Ed
-  and a list of current features see our <a href="{{ site.baseurl }}/about/">about</a> section. To
-  see Ed in action, we've provided some sample minimal editions for you below.
-</p>
-</div>
+<ol>
+  <li>
+    <a href="/chords">Chords</a>
+    <ul>
+      <li><a href="/the-drone-scale">The Drone Scale</a></li>  
+      <li><a href="the-chordal-concept">The Chordal Concept</a></li>
+      <li><a href="double-stops">Double Stops</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="/shifting">Shifting</a>
+    <ul>
+      <li><a href="/shifting">Basic Shift</a></li>
+      <li><a href="/shifting/#crawling">Crawling</a></li>
+      <li><a href="/shifting/#pivoting">Pivoting</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="fingerings">Fingerings</a>
+  </li>
+  <li>
+    <a href="left-hand-pizzicato">Left Hand Pizzicato</a>
+  </li>
+  <li>
+  <a href="the-chin-rest-and-other-aspects">The Chin Rest and Other Aspects</a>
+  </li>
+</ol>
 
-<hr>
 
-<div class="toc">
-  <h2>sample texts</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
-
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
