@@ -9,11 +9,17 @@ In order to better understand the benefits of a chordal approach, we will imagin
 
 #### 45
 
+{% include examples/the-chordal-concept/ex45.svg %}
+
 The same with fingered octaves:
 
 #### ex 46
 
+{% include examples/the-chordal-concept/ex46.svg %}
+
 #### ex 48
+
+{% include examples/the-chordal-concept/ex48.svg %}
 
 Thus three double stops instead of two can be played before shifting, an advantage of 50 percent. 
 
@@ -21,25 +27,41 @@ Obvoiusly we cannot graft on another finger but we can obtain five finger benefi
 
 #### ex 49
 
+{% include examples/the-chordal-concept/ex49.svg %}
+
 This is an excellent exercise for beginning the expansion of the left hand, since it concentrates on the inner two fingers of the left hand but does not cause the tension found in fingered octaves and tenths. 
 
 With the chordal concept there is the possibility of (1) developing intonation by holding the fifth (the b serves as the drone); (2) gently expanding and strengthening the left hand and (3) actually thinking in terms of a chordal outline. This approach is an excellent preparation for pasages such as the following from Caprice No. 14 by Paganini. 
 
 #### ex 50
 
+{% include examples/the-chordal-concept/ex50.svg %}
+
 This preparation is vital if one intends to play technically difficult works, since Paganini makes demands far beyond this in all his Caprices. The following is a more extreme example. One finger is held down while the rest of the hand expands into another position. 
 
 #### ex 51
 
+{% include examples/the-chordal-concept/ex51.svg %}
+
 #### ex 52
+
+{% include examples/the-chordal-concept/ex52.svg %}
 
 #### ex 53
 
+{% include examples/the-chordal-concept/ex53.svg %}
+
 #### ex 54
+
+{% include examples/the-chordal-concept/ex54.svg %}
 
 #### ex 55
 
+{% include examples/the-chordal-concept/ex55.svg %}
+
 #### ex 56
+
+{% include examples/the-chordal-concept/ex56.svg %}
 
 In example 51 the first finger is held down and in Examples 54, 55 and 56 the thirds or fourth finger is the anchor. 
 

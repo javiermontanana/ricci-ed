@@ -7,6 +7,8 @@ To maintain the key when practicing scales, a drone tone creating a double stop 
 
 #### ex. 1
 
+{% include examples/the-drone-scale/ex1.svg %}
+
 This is a G major scale with open-string drones. The open stirngs must, of course, be in tune. This approach is extremely important and should be an integral part of the dily practice of scales and the literature. 
 
 ### Examples in G major
