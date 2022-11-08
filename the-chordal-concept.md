@@ -7,7 +7,7 @@ So far, the discussion and examples for the left hand have been basically within
 
 In order to better understand the benefits of a chordal approach, we will imagine a violinist with five fingers instead of four. Let us see what could be done. Thirds could be played as follows. 
 
-#### 45
+#### ex 45
 
 {% include examples/the-chordal-concept/ex45.svg %}
 
